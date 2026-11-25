@@ -21,7 +21,7 @@ services:
       - key: AUTH_REFRESH_COOKIE_SECURE
         value: "true"
       - key: AUTH_REFRESH_COOKIE_SAME_SITE
-        value: Lax
+        value: None
 
   - type: web
     name: juegotodo-catalogo-web-20261125
