@@ -1,0 +1,497 @@
+[
+  {
+    "nombre": "The Witcher 3: Wild Hunt",
+    "categoria": "HISTORIA",
+    "precio": 8990,
+    "descripcion": "Juego de rol de mundo abierto en un universo de fantasía oscura.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+    "linkTiendaOficial": "https://www.thewitcher.com/"
+  },
+  {
+    "nombre": "God of War Ragnarök",
+    "categoria": "HISTORIA",
+    "precio": 38990,
+    "descripcion": "Kratos y Atreus se embarcan en un viaje mítico por los Nueve Reinos.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+    "linkTiendaOficial": "https://www.playstation.com/games/god-of-war-ragnarok/"
+  },
+  {
+    "nombre": "Cyberpunk 2077",
+    "categoria": "HISTORIA",
+    "precio": 18990,
+    "descripcion": "RPG de acción y aventura en mundo abierto ambientado en Night City.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "linkTiendaOficial": "https://www.cyberpunk.net/"
+  },
+  {
+    "nombre": "The Last of Us Part I",
+    "categoria": "HISTORIA",
+    "precio": 32990,
+    "descripcion": "Acompaña a Joel y Ellie en un viaje inolvidable por un mundo postapocalíptico.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
+    "linkTiendaOficial": "https://www.playstation.com/games/the-last-of-us-part-i/"
+  },
+  {
+    "nombre": "God of War",
+    "categoria": "HISTORIA",
+    "precio": 17990,
+    "descripcion": "Kratos inicia una nueva vida en las tierras hostiles de la mitología nórdica.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+    "linkTiendaOficial": "https://www.playstation.com/games/god-of-war/"
+  },
+  {
+    "nombre": "Horizon Forbidden West",
+    "categoria": "HISTORIA",
+    "precio": 34990,
+    "descripcion": "Explora tierras lejanas y enfréntate a máquinas colosales junto a Aloy.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg",
+    "linkTiendaOficial": "https://www.playstation.com/games/horizon-forbidden-west/"
+  },
+  {
+    "nombre": "Ghost of Tsushima DIRECTOR'S CUT",
+    "categoria": "HISTORIA",
+    "precio": 36990,
+    "descripcion": "Forja un nuevo camino y lucha por la libertad de Tsushima en el Japón feudal.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "linkTiendaOficial": "https://www.playstation.com/games/ghost-of-tsushima/"
+  },
+  {
+    "nombre": "Detroit: Become Human",
+    "categoria": "HISTORIA",
+    "precio": 11990,
+    "descripcion": "Decide el destino de los androides y la humanidad en una aventura narrativa.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "linkTiendaOficial": "https://www.quanticdream.com/en/detroit-become-human"
+  },
+  {
+    "nombre": "A Plague Tale: Requiem",
+    "categoria": "HISTORIA",
+    "precio": 16990,
+    "descripcion": "Amicia y Hugo emprenden un viaje desesperado hacia una isla profetizada.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/header.jpg",
+    "linkTiendaOficial": "https://www.focus-entmt.com/en/games/a-plague-tale-requiem"
+  },
+  {
+    "nombre": "Baldur's Gate 3",
+    "categoria": "HISTORIA",
+    "precio": 34990,
+    "descripcion": "RPG narrativo de nueva generación ambientado en los Reinos Olvidados.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "linkTiendaOficial": "https://baldursgate3.game/"
+  },
+  {
+    "nombre": "Red Dead Redemption 2",
+    "categoria": "ACCION",
+    "precio": 16990,
+    "descripcion": "Épica historia de forajidos en el corazón de América.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "linkTiendaOficial": "https://www.rockstargames.com/reddeadredemption2/"
+  },
+  {
+    "nombre": "Grand Theft Auto V",
+    "categoria": "ACCION",
+    "precio": 11990,
+    "descripcion": "Acción en mundo abierto en la ciudad de Los Santos.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "linkTiendaOficial": "https://www.rockstargames.com/gta-v"
+  },
+  {
+    "nombre": "Elden Ring",
+    "categoria": "ACCION",
+    "precio": 31990,
+    "descripcion": "RPG de acción y fantasía oscura en las Tierras Intermedias.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "linkTiendaOficial": "https://en.bandainamcoent.eu/elden-ring/elden-ring"
+  },
+  {
+    "nombre": "Marvel's Spider-Man Remastered",
+    "categoria": "ACCION",
+    "precio": 25990,
+    "descripcion": "Balanceate por Nueva York y combate el crimen como Peter Parker.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+    "linkTiendaOficial": "https://www.playstation.com/games/marvels-spider-man-remastered/"
+  },
+  {
+    "nombre": "Sekiro: Shadows Die Twice",
+    "categoria": "ACCION",
+    "precio": 24990,
+    "descripcion": "Ábrete camino a golpe de katana en el Japón de la era Sengoku.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+    "linkTiendaOficial": "https://www.sekirothegame.com/"
+  },
+  {
+    "nombre": "Resident Evil 4",
+    "categoria": "ACCION",
+    "precio": 21990,
+    "descripcion": "Sobrevive al horror en una aldea europea en la misión de rescate de Leon S. Kennedy.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "linkTiendaOficial": "https://www.residentevil.com/re4/"
+  },
+  {
+    "nombre": "Devil May Cry 5",
+    "categoria": "ACCION",
+    "precio": 8990,
+    "descripcion": "Acción frenética cazando demonios con Dante, Nero y V.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+    "linkTiendaOficial": "https://www.devilmaycry5.com/"
+  },
+  {
+    "nombre": "Batman: Arkham Knight",
+    "categoria": "ACCION",
+    "precio": 4990,
+    "descripcion": "Conduce el Batimóvil y defiende Ciudad Gótica en el cierre de la trilogía Arkham.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
+    "linkTiendaOficial": "https://www.warnerbrosgames.com/"
+  },
+  {
+    "nombre": "Hogwarts Legacy",
+    "categoria": "ACCION",
+    "precio": 17990,
+    "descripcion": "RPG de acción en mundo abierto ambientado en el mundo mágico del siglo XIX.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
+    "linkTiendaOficial": "https://www.hogwartslegacy.com/"
+  },
+  {
+    "nombre": "Days Gone",
+    "categoria": "ACCION",
+    "precio": 12990,
+    "descripcion": "Recorre en motocicleta un mundo devastado por hordas de engendros.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg",
+    "linkTiendaOficial": "https://www.playstation.com/games/days-gone/"
+  },
+  {
+    "nombre": "EA SPORTS FC 25",
+    "categoria": "DEPORTE",
+    "precio": 24990,
+    "descripcion": "Fútbol mundial con modo Rush 5v5, Ultimate Team y las mejores ligas oficiales.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/ea-sports-fc/fc-25"
+  },
+  {
+    "nombre": "Forza Horizon 5",
+    "categoria": "DEPORTE",
+    "precio": 22990,
+    "descripcion": "Festival de automovilismo y carreras en mundo abierto por los paisajes de México.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "linkTiendaOficial": "https://forza.net/horizon"
+  },
+  {
+    "nombre": "Assetto Corsa",
+    "categoria": "DEPORTE",
+    "precio": 4990,
+    "descripcion": "Simulador de conducción realista con circuitos escaneados con láser.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+    "linkTiendaOficial": "https://www.assettocorsa.it/"
+  },
+  {
+    "nombre": "NBA 2K25",
+    "categoria": "DEPORTE",
+    "precio": 21990,
+    "descripcion": "Domina la cancha con tecnología ProPLAY, Mi CARRERA y MyTEAM.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878980/header.jpg",
+    "linkTiendaOficial": "https://nba.2k.com/"
+  },
+  {
+    "nombre": "F1 24",
+    "categoria": "DEPORTE",
+    "precio": 23990,
+    "descripcion": "Compite en el Campeonato Mundial de Fórmula 1 con físicas renovadas.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488620/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/f1/f1-24"
+  },
+  {
+    "nombre": "Assetto Corsa Competizione",
+    "categoria": "DEPORTE",
+    "precio": 9990,
+    "descripcion": "Simulador oficial del campeonato GT World Challenge.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/header.jpg",
+    "linkTiendaOficial": "https://www.assettocorsa.it/competizione/"
+  },
+  {
+    "nombre": "EA SPORTS WRC",
+    "categoria": "DEPORTE",
+    "precio": 15990,
+    "descripcion": "Videojuego oficial del Campeonato Mundial de Rally de la FIA.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849250/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/ea-sports-wrc"
+  },
+  {
+    "nombre": "WWE 2K24",
+    "categoria": "DEPORTE",
+    "precio": 18990,
+    "descripcion": "Revive los combates más emblemáticos de WrestleMania con superestrellas históricas.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315690/header.jpg",
+    "linkTiendaOficial": "https://wwe.2k.com/"
+  },
+  {
+    "nombre": "TopSpin 2K25",
+    "categoria": "DEPORTE",
+    "precio": 16990,
+    "descripcion": "Compite en los cuatro torneos Grand Slam con leyendas del tenis mundial.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1785650/header.jpg",
+    "linkTiendaOficial": "https://topspin.2k.com/"
+  },
+  {
+    "nombre": "BeamNG.drive",
+    "categoria": "DEPORTE",
+    "precio": 12990,
+    "descripcion": "Simulador de vehículos con físicas de cuerpos blandos en tiempo real.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
+    "linkTiendaOficial": "https://www.beamng.com/"
+  },
+  {
+    "nombre": "Call of Duty: Modern Warfare II",
+    "categoria": "SHOOTERS",
+    "precio": 27990,
+    "descripcion": "Combate táctico en primera persona junto a la Fuerza Operativa 141.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+    "linkTiendaOficial": "https://www.callofduty.com/modernwarfare2"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six Siege",
+    "categoria": "SHOOTERS",
+    "precio": 7990,
+    "descripcion": "Shooter táctico 5v5 basado en estrategia, destrucción y trabajo en equipo.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+    "linkTiendaOficial": "https://www.ubisoft.com/game/rainbow-six/siege"
+  },
+  {
+    "nombre": "DOOM Eternal",
+    "categoria": "SHOOTERS",
+    "precio": 9990,
+    "descripcion": "Combate frenético en primera persona como el DOOM Slayer.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
+    "linkTiendaOficial": "https://slayersclub.bethesda.net/"
+  },
+  {
+    "nombre": "Battlefield V",
+    "categoria": "SHOOTERS",
+    "precio": 6990,
+    "descripcion": "Batallas multijugador masivas ambientadas en la Segunda Guerra Mundial.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/battlefield/battlefield-5"
+  },
+  {
+    "nombre": "Battlefield 1",
+    "categoria": "SHOOTERS",
+    "precio": 5990,
+    "descripcion": "Vive los albores de la guerra total en escenarios de la Primera Guerra Mundial.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/battlefield/battlefield-1"
+  },
+  {
+    "nombre": "Titanfall 2",
+    "categoria": "SHOOTERS",
+    "precio": 4990,
+    "descripcion": "Combate ágil como piloto y despliega titanes blindados en campaña y multijugador.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/titanfall/titanfall-2"
+  },
+  {
+    "nombre": "Metro Exodus",
+    "categoria": "SHOOTERS",
+    "precio": 6990,
+    "descripcion": "Shooter en primera persona de supervivencia por la Rusia postapocalíptica.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg",
+    "linkTiendaOficial": "https://www.metrothegame.com/"
+  },
+  {
+    "nombre": "Ready or Not",
+    "categoria": "SHOOTERS",
+    "precio": 21990,
+    "descripcion": "Shooter táctico realista en el que lideras un escuadrón SWAT en operativos críticos.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+    "linkTiendaOficial": "https://voidinteractive.net/"
+  },
+  {
+    "nombre": "Hell Let Loose",
+    "categoria": "SHOOTERS",
+    "precio": 18990,
+    "descripcion": "Shooter bélico realista 50 contra 50 con infantería, tanques y artillería.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
+    "linkTiendaOficial": "https://www.hellletloose.com/"
+  },
+  {
+    "nombre": "Borderlands 3",
+    "categoria": "SHOOTERS",
+    "precio": 7990,
+    "descripcion": "Shooter looter cooperativo con millones de armas y acción desenfrenada.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
+    "linkTiendaOficial": "https://borderlands.2k.com/"
+  },
+  {
+    "nombre": "Minecraft",
+    "categoria": "MULTIJUGADOR",
+    "precio": 15990,
+    "descripcion": "Construye, explora y sobrevive en un mundo de bloques junto a tus amigos.",
+    "oferta": false,
+    "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoApDK5-Eb15dkriejVf1RxBU05Z5sUrDwBqgc9-vkQ&s=10",
+    "linkTiendaOficial": "https://www.minecraft.net/"
+  },
+  {
+    "nombre": "It Takes Two",
+    "categoria": "MULTIJUGADOR",
+    "precio": 11990,
+    "descripcion": "Aventura cooperativa diseñada exclusivamente para jugar entre dos.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/it-takes-two"
+  },
+  {
+    "nombre": "Left 4 Dead 2",
+    "categoria": "MULTIJUGADOR",
+    "precio": 3990,
+    "descripcion": "Cooperativo de supervivencia zombi para hasta 4 jugadores.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+    "linkTiendaOficial": "https://www.l4d.com/"
+  },
+  {
+    "nombre": "Terraria",
+    "categoria": "MULTIJUGADOR",
+    "precio": 4990,
+    "descripcion": "Cava, lucha, explora y construye en un mundo de aventuras 2D en cooperativo.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "linkTiendaOficial": "https://terraria.org/"
+  },
+  {
+    "nombre": "Lethal Company",
+    "categoria": "MULTIJUGADOR",
+    "precio": 5990,
+    "descripcion": "Recolecta chatarra en lunas abandonadas en este terror cooperativo con chat de voz.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+    "linkTiendaOficial": "https://store.steampowered.com/app/1966720/Lethal_Company/"
+  },
+  {
+    "nombre": "Phasmophobia",
+    "categoria": "MULTIJUGADOR",
+    "precio": 9990,
+    "descripcion": "Terror psicológico cooperativo para 4 jugadores donde investigas actividad paranormal.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+    "linkTiendaOficial": "https://kineticgames.co.uk/"
+  },
+  {
+    "nombre": "Dead by Daylight",
+    "categoria": "MULTIJUGADOR",
+    "precio": 7990,
+    "descripcion": "Multijugador de terror asimétrico 4 contra 1 donde un asesino persigue a cuatro supervivientes.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+    "linkTiendaOficial": "https://deadbydaylight.com/"
+  },
+  {
+    "nombre": "Rust",
+    "categoria": "MULTIJUGADOR",
+    "precio": 19990,
+    "descripcion": "Supervivencia multijugador en mundo abierto donde debes construir, saquear y resistir.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "linkTiendaOficial": "https://rust.facepunch.com/"
+  },
+  {
+    "nombre": "Sea of Thieves",
+    "categoria": "MULTIJUGADOR",
+    "precio": 16990,
+    "descripcion": "Navega, busca tesoros y combate en altamar junto a tu tripulación pirata.",
+    "oferta": false,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+    "linkTiendaOficial": "https://www.seaofthieves.com/"
+  },
+  {
+    "nombre": "A Way Out",
+    "categoria": "MULTIJUGADOR",
+    "precio": 5990,
+    "descripcion": "Aventura cooperativa en pantalla dividida donde dos prisioneros planean su fuga.",
+    "oferta": true,
+    "imagenUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/a-way-out"
+  },
+  {
+    "nombre": "Grand Theft Auto VI",
+    "categoria": "ACCION",
+    "precio": 59990,
+    "descripcion": "Bienvenido de vuelta a Vice City. Reserva el lanzamiento más esperado.",
+    "oferta": true,
+    "imagenUrl": "/img/gta.png",
+    "linkTiendaOficial": "https://www.rockstargames.com/VI"
+  },
+  {
+    "nombre": "EA Sports FC 27",
+    "categoria": "DEPORTE",
+    "precio": 49990,
+    "descripcion": "La nueva era del fútbol mundial con hipermovimiento y ligas oficiales.",
+    "oferta": true,
+    "imagenUrl": "https://sm.ign.com/ign_latam/screenshot/default/ea27mbappe_k4mn.jpg",
+    "linkTiendaOficial": "https://www.ea.com/games/ea-sports-fc"
+  },
+  {
+    "nombre": "Forza Horizon 6",
+    "categoria": "DEPORTE",
+    "precio": 44990,
+    "descripcion": "Velocidad sin límites y mundo abierto con gráficos de última generación.",
+    "oferta": false,
+    "imagenUrl": "https://i.ytimg.com/vi/9fxR3p1TtE0/maxresdefault.jpg",
+    "linkTiendaOficial": "https://forza.net/"
+  },
+  {
+    "nombre": "Assassin's Creed Shadows",
+    "categoria": "ACCION",
+    "precio": 38990,
+    "descripcion": "Vive las historias entrelazadas de Naoe y Yasuke en el Japón feudal.",
+    "oferta": true,
+    "imagenUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/2018/f5a4f3f89d83a53b6ce319816637fb358e4880b7505ee37d.jpg",
+    "linkTiendaOficial": "https://www.ubisoft.com/game/assassins-creed/shadows"
+  },
+  {
+    "nombre": "The Legend of Zelda: Ocarina of Time",
+    "categoria": "HISTORIA",
+    "precio": 29990,
+    "descripcion": "Una aventura legendaria a través del tiempo en el reino de Hyrule.",
+    "oferta": false,
+    "imagenUrl": "https://nosdicengamers.com/wp-content/uploads/2026/11/16x9_PDP_NSwitch2_TloZOcarinaOfTime_AnniLogo_image1600w.jpg",
+    "linkTiendaOficial": "https://www.nintendo.com/"
+  }
+]

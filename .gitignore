@@ -1,0 +1,21 @@
+# Local credentials
+**/.env
+**/.env.*
+!**/.env.example
+
+# Generated dependencies and build output
+**/node_modules/
+**/target/
+**/dist/
+**/coverage/
+
+# Local tooling and extracted assignment material
+/.local-run/
+/tmp_docs/
+/entrega/*.zip
+/.vscode/
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+*.log

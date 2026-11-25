@@ -1,0 +1,41 @@
+services:
+  - type: web
+    name: juegotodo-catalogo-api-20261125
+    runtime: docker
+    plan: free
+    region: virginia
+    rootDir: juegoTodo-spring-main/juegotodo
+    dockerfilePath: Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: DB_URL
+        sync: false
+      - key: DB_USERNAME
+        sync: false
+      - key: DB_PASSWORD
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CORS_ORIGINS
+        value: https://juegotodo-catalogo-web-20261125.onrender.com
+      - key: AUTH_REFRESH_COOKIE_SECURE
+        value: "true"
+      - key: AUTH_REFRESH_COOKIE_SAME_SITE
+        value: Lax
+
+  - type: web
+    name: juegotodo-catalogo-web-20261125
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm ci && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: juegotodo-catalogo-api-20261125
+          envVarKey: RENDER_EXTERNAL_URL
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
